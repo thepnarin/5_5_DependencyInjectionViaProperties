@@ -1,0 +1,13 @@
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\bin\Debug\5_5_DependencyInjectionViaProperties.exe.config
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\bin\Debug\5_5_DependencyInjectionViaProperties.exe
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\bin\Debug\5_5_DependencyInjectionViaProperties.pdb
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\bin\Debug\EntityFramework.dll
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\bin\Debug\EntityFramework.SqlServer.dll
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\bin\Debug\Newtonsoft.Json.dll
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\bin\Debug\EntityFramework.xml
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\bin\Debug\EntityFramework.SqlServer.xml
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\bin\Debug\Newtonsoft.Json.xml
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\obj\Debug\5_5_DependencyInjectionViaProperties.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\obj\Debug\5_5_DependencyInjectionViaProperties.csproj.CopyComplete
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\obj\Debug\5_5_DependencyInjectionViaProperties.exe
+D:\[OOP] - Object Oriented Programming\Test\5_5_DependencyInjectionViaProperties\5_5_DependencyInjectionViaProperties\obj\Debug\5_5_DependencyInjectionViaProperties.pdb
